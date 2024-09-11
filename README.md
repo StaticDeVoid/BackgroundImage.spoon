@@ -1,3 +1,2 @@
 # BackgroundImage.spoon
-# BackgroundImage.spoon
-# BackgroundImage.spoon
+simple hammerspoon spoon to override mandated wallpaper
