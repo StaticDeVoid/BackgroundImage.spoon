@@ -7,7 +7,7 @@ simple hammerspoon spoon to overlay a canvas that acts as a new wallpaper, used 
 hs.loadSpoon("ImageOverlay")
 
 -- Set the image path if you want to change the default image
-spoon.ImageOverlay:setImagePath("/Users/jordan.jones/Pictures/a0854720793_10 copy.jpeg")
+spoon.ImageOverlay:setImagePath("your/image/path.png")
 
 -- Bind hotkeys to show and hide the image
 hs.hotkey.bind({"cmd", "alt", "ctrl"}, "I", function()
