@@ -12,7 +12,7 @@ obj.homepage = "https://github.com/StaticDevoid/ImageOverlay.spoon"
 obj.license = "MIT"
 
 -- Default image path
-obj.imagePath = "/Users/jordan.jones/Pictures/a0854720793_10 copy.jpeg"
+obj.imagePath = "your/custom/path.png"
 
 -- Function to display the image
 function obj:showImage()
